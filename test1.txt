@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is B663-9CC4
+
+ Directory of D:\Git
+
+01/25/2019  03:12 PM    <DIR>          .
+01/25/2019  03:12 PM    <DIR>          ..
+01/25/2019  03:12 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  200,608,886,784 bytes free
